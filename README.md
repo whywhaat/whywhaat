@@ -32,9 +32,9 @@
 ## Навыки
 | Категория | Стек |
 |-----------|------|
-| Языки | `Python` (уверенно), `SQL` (базовый) |
+| Языки | `Python`, `SQL`  |
 | AI/LLM | `Prompt Engineering`, `LLM API`, `AI-агенты`, `LangChain/`, `RAG` |
-| Инструменты | `Git/GitHub`, `Docker` (базовый), `Postman`, `FastAPI`, `Django` `aiogram` |
+| Инструменты | `Git/GitHub`, `Docker`, `Postman`, `FastAPI`, `Django` `aiogram` |
 | CS-база | Алгоритмы, структуры данных, асимптотика, unit-тесты, отладка |
 | Soft | Тимлидство, менторство, презентация решений, самостоятельное обучение |
 
